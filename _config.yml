@@ -1,2 +1,2 @@
 baseurl: /blog
-markdown: rdiscount
+markdown: redcarpet
